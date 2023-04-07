@@ -4,7 +4,7 @@
 }
 .navbar {
     display: flex;
-    position: sticky;
+    position: fixed;
     align-items: center;
     justify-content: center;
     top: 0;
@@ -172,6 +172,7 @@ span{
     margin-right: 100px;
 }
 .diamond {
+    position: relative;
     display : flex;
     margin-top: 70px;
 }

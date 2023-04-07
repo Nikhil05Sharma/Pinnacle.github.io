@@ -7,4 +7,4 @@ burger.addEventListner('click', ()=>{
     navbar.classlist.toggle('h-class');
     searchlist.classlist.toggle('v-class');
     navlist.classlist.toggle('v-class');
-})
+});
