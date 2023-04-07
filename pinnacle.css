@@ -57,7 +57,7 @@
     border: 2px solid black;
 }
 .background {
-    background: rgba(0,0,0,0.7) url('images/background.jpg');
+    background: rgba(0,0,0,0.7) url('Images/background.jpg');
     background-blend-mode: darken;
     background-size: cover;
 }
